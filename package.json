@@ -1,0 +1,26 @@
+{
+  "name": "fend-project3",
+  "version": "1.0.0",
+  "description": "Third project of Udacity's Front End Nanodegree program. A weather journal app which connects to a Node.js backend and fetches weather data from a public API. Built on this [starter code](https://github.com/udacity/fend/tree/refresh-2019).",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnnaif/fend-project3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnnaif/fend-project3/issues"
+  },
+  "homepage": "https://github.com/nnnaif/fend-project3#readme"
+}
